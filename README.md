@@ -1,4 +1,4 @@
-hyperquert-cli
+hyperquest-cli
 ==============
 
  A simple commandline bin around hyperquest
