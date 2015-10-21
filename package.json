@@ -1,0 +1,27 @@
+{
+  "name": "hyperquest-cli",
+  "version": "1.0.0",
+  "description": "A simple commandline-bin around hyperquest",
+  "bin": {
+    "hyperquest": "./bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyperquest"
+  ],
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "dependencies": {
+    "hyperquest": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanramage/hyperquest-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanramage/hyperquest-cli/issues"
+  },
+  "homepage": "https://github.com/ryanramage/hyperquest-cli"  
+}
